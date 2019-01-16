@@ -16,3 +16,5 @@ eda-is-fun.ipynb
 
 # Scripts
 buffer_del.py
+main.py
+train_and_test.py

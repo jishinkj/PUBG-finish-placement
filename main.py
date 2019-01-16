@@ -101,7 +101,7 @@ train['healsandboosts'] = train['heals'] + train['boosts']
 train['playersJoined'] = train.groupby('matchId')['matchId'].transform('count')
 
 
- #%% OUTLIERS
+#%% OUTLIERS
 
 # Players who kill without moving 
 #train[train['killsWithoutMoving'] == True].shape
