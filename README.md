@@ -1,4 +1,4 @@
-# PUBG-finish-placement
+# PUBG Finish Placement Prediction
 
 We are provided with a large number of anonymized PUBG game stats, formatted so that each row contains one player's post-game stats. The data comes from matches of all types: solos, duos, squads, and custom; there is no guarantee of there being 100 players per match, nor at most 4 player per group.
 
